@@ -32,7 +32,7 @@ export default function Testimonials() {
           className="flex gap-8"
           animate={{ x: ["0%", "-50%"] }}
           transition={{
-            duration: 20, // speed of sliding
+            duration: 7, // speed of sliding
             repeat: Infinity,
             ease: "linear",
           }}>

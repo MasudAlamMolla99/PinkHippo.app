@@ -40,7 +40,7 @@ export default function FeatureSlider() {
           transition={{
             repeat: Infinity,
             ease: "linear",
-            duration: 15, // adjust for speed
+            duration: 7, // adjust for speed
           }}>
           {loopItems.map((item, i) => (
             <div
